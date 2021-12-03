@@ -63,9 +63,7 @@ a{
   color: white !important;
 }
 
-#_form_9_{
-  padding: 0px !important;
-}
+
 
 form{
   margin-left: 0px !important;
@@ -77,12 +75,71 @@ input{
 }
 
 
-#_form_13_submit{
-  border: none !important;
-}
+
+
 
 
 input::placeholder {
   color: #000 !important;
   font-size: 16px !important;
 }
+
+#_form_9_{
+  padding: 0px !important;
+}
+
+#_form_13_submit{
+  border: none !important;
+}
+
+
+._form-branding{
+  background-color: #000 !important;
+}
+
+form{
+  background-color: #000 !important;
+}
+
+._form-content{
+  background-color: #000 !important;
+}
+input{
+  padding: 15px !important;
+  border: none !important;
+}
+
+#_form_13_ ._submit { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; font-size:14px; text-align:center; background: linear-gradient(180deg, #FFC700 0%, #FF0000 100%) !important; border: 0px solid #fff !important; color:#fff !important; padding:15px !important; }
+#_form_13_submit{
+  border: none !important;
+}
+#_form_13_{
+  padding: 0px !important;
+}
+._form_13_{
+  background-color: #000 !important;
+}
+
+#_form_15_ ._submit { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; font-size:14px; text-align:center; background: linear-gradient(180deg, #FFC700 0%, #FF0000 100%) !important; border: 0px solid #fff !important; color:#fff !important; padding:15px !important; }
+#_form_15_submit{
+  border: none !important;
+}
+#_form_15_{
+  padding: 0px !important;
+}
+._form_15_{
+  background-color: #000 !important;
+}
+
+
+#_form_17_ ._submit { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; font-size:14px; text-align:center; background: linear-gradient(180deg, #FFC700 0%, #FF0000 100%) !important; border: 0px solid #fff !important; color:#fff !important; padding:15px !important; }
+#_form_17_submit{
+  border: none !important;
+}
+#_form_17_{
+  padding: 0px !important;
+}
+._form_17_{
+  background-color: #000 !important;
+}
+
